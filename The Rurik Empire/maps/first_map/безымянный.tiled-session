@@ -3,11 +3,12 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "first_world.tmj",
     "expandedProjectPaths": [
         "C:/Users/bazun/Documents/GitHub/bazGames/The Rurik Empire/maps/MiniWorldSprites",
         "C:/Users/bazun/Documents/GitHub/bazGames/The Rurik Empire/maps/MiniWorldSprites/Ground"
     ],
+    "file.lastUsedOpenFilter": "Все файлы (*)",
     "fileStates": {
         "": {
             "scaleInDock": 1
@@ -31,20 +32,36 @@
         },
         "#test": {
             "dynamicWrapping": true
+        },
+        "first_world.tmj": {
+            "scale": 0.75,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 830.6666666666665,
+                "y": 1349.3333333333333
+            }
+        },
+        "first_world.tmj#terrain": {
+            "scaleInDock": 1
         }
     },
     "last.externalTilesetPath": "C:/Users/bazun/Documents/GitHub/bazGames/The Rurik Empire/maps/MiniWorldSprites/Nature",
-    "last.imagePath": "C:/Users/bazun/Documents/GitHub/bazGames/The Rurik Empire/maps/MiniWorldSprites",
+    "last.imagePath": "D:/GitHub/bazGames/The Rurik Empire/maps/lpc_terrain",
+    "map.height": 100,
+    "map.lastUsedFormat": "json",
+    "map.width": 210,
     "openFiles": [
+        "first_world.tmj"
     ],
     "project": "безымянный.tiled-project",
     "recentFiles": [
+        "first_world.tmj"
     ],
     "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Все файлы (*)",
     "tileset.tileSize": {
-        "height": 24,
-        "width": 24
+        "height": 32,
+        "width": 32
     },
     "tileset.type": 0
 }
