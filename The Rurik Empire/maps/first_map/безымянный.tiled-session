@@ -45,11 +45,11 @@
             "scaleInDock": 1
         },
         "first_world.tmx": {
-            "scale": 0.75,
-            "selectedLayer": 3,
+            "scale": 1,
+            "selectedLayer": 1,
             "viewCenter": {
-                "x": 405.33333333333326,
-                "y": 2074.6666666666665
+                "x": 889.5,
+                "y": 1700
             }
         },
         "first_world.tmx#terrain": {
@@ -57,7 +57,7 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/bazun/Documents/GitHub/bazGames/The Rurik Empire/maps/MiniWorldSprites/Nature",
-    "last.imagePath": "D:/GitHub/bazGames/The Rurik Empire/maps/lpc_terrain",
+    "last.imagePath": "D:/GitHub/bazGames/The Rurik Empire/maps/MiniWorldSprites",
     "map.height": 100,
     "map.lastUsedFormat": "tmx",
     "map.width": 210,
